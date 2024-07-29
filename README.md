@@ -1,5 +1,3 @@
-# OIB_TASK_01
-
 To run the file, you have to install notepad++ or you can run in visual studio.
 
 The output looks like this:
